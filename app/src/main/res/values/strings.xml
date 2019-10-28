@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RDA-AR</string>
+    <string name="action_settings">Settings</string>
+    <string name="loading">Cargando...</string>
+    <string name="email">correo</string>
+    <string name="txt_logo">LogoApp</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "567431031684",
+    "firebase_url": "https://rda-ar.firebaseio.com",
+    "project_id": "rda-ar",
+    "storage_bucket": "rda-ar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567431031684:android:02efb9b8b02e7ba1",
+        "android_client_info": {
+          "package_name": "cl.rincondeantonia.ar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567431031684-r7es3me2u6u16gdrb9baukl4dvb2rf7k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.rincondeantonia.ar",
+            "certificate_hash": "f76e31671b7a2f82889fb2b21e795746de7df9cf"
+          }
+        },
+        {
+          "client_id": "567431031684-1kp46cv0q53ml1447162jhksl6a6rn4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBjDUbhCz_AzbsZx1V8lq4rnUO0UL8HH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567431031684-1kp46cv0q53ml1447162jhksl6a6rn4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
